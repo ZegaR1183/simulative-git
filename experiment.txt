@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This line was added in the master branch!
 =======
 This line was added in the homework branch!
@@ -7,3 +8,6 @@ This line was added in the homework branch!
 =======
 This line was added in the experiment branch!
 >>>>>>> e29acfe (Update experiment.txt)
+=======
+This line was added in the homework branch!
+>>>>>>> 776cb0f (Replacement in the experiment.txt file: replace experiment with homework)
